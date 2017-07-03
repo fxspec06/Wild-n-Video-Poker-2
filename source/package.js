@@ -9,6 +9,8 @@ enyo.depends(
 	"data",
 	// View kind definitions
 	"views",
+	// Themes
+	"Themes",
 	// Include our default entry point
 	"app.js"
 );

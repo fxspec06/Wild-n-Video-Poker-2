@@ -5,11 +5,11 @@
 */
 
 enyo.kind({
-	name: "myapp.Application",
+	name: "wvp.Application",
 	kind: "enyo.Application",
-	view: "myapp.MainView"
+	view: "wvp.MainView"
 });
 
 enyo.ready(function () {
-	new myapp.Application({name: "app"});
+	new wvp.Application({name: "wildnpoker"});
 });

@@ -1,0 +1,9 @@
+.card {
+	width: 150px;
+	height: 200px!important;
+}
+.table {
+	padding: 100px;
+	display: flex;
+	justify-content: space-between;
+}

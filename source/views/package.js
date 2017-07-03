@@ -1,3 +1,5 @@
 enyo.depends(
-	"views.js"
+	"game",
+	"table.js",
+	"main.js"
 );
